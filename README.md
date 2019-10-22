@@ -9,6 +9,8 @@ October 2019
 
 In this repositiory you find the content of the curriculum and usefull links to make you familar with OpenShift
 
+# you cand find the content here: https://github.com/alfbach/OCP_Curriculum
+
 ## Location
 
 Radison Blu Hotel Milano, Via Villapizzone, 24, 20156 Milano MI, Italy
