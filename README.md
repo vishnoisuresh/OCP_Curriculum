@@ -2,7 +2,7 @@
 
 
 # Red Hat OpenShift 4.x Curriculum
-## for Advanced and Premium Red Hat Patners in Milan 2019
+## for Advanced and Premium Red Hat Partners in Milan 2019
 ### powerd by <img src="https://github.com/alfbach/OCPday/blob/master/intel_logo.png" width="80" height="40">
 
 October 2019
